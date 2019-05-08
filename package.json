@@ -1,0 +1,19 @@
+{
+  "name": "project-blogaday",
+  "version": "1.0.0",
+  "description": "Build a blog from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinJuliusKim/project-blogaday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinJuliusKim/project-blogaday/issues"
+  },
+  "homepage": "https://github.com/AustinJuliusKim/project-blogaday#readme"
+}
